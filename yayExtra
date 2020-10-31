@@ -1,0 +1,9 @@
+sudo pacman -S nuitka --noconfirm
+yay -S vmware-workstation --noconfirm --needed
+yay -S i3-resurrect-git --noconfirm --needed
+yay -S taskbook-git --noconfirm --needed
+yay -S colorpicker --noconfirm --needed
+yay -S vscodium-git --noconfirm --needed
+yay -S icu63 --noconfirm --needed
+yay -S nvidia-390xx --noconfirm --needed
+yay -S neovim-nightly-git --noconfirm --needed

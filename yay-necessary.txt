@@ -1,0 +1,14 @@
+notify-desktop-git
+polybar-git
+autotiling-git
+networkmanager-dmenu-git
+btmenu
+udiskie-dmenu-git
+create_ap-git
+rofi-bluetooth-git
+freedownloadmanager
+timeshift
+aic94xx-firmware
+wd719x-firmware
+upd72020x-fw
+
